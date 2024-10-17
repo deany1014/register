@@ -1,0 +1,17 @@
+{
+    "description": "Inovix Discord Bot Project",
+    "domain": "is-cool.dev",
+    "subdomain": "inovix",
+
+    "owner": {
+        "repo": "https://github.com/deany1014/Inovix",
+        "email": "deanelyakoubi@gmail.com"
+    },
+
+    "record": {
+        "A": ["78.108.218.109"], 
+        "TXT": ["inovix_verification=1234567890"]  
+    },
+
+    "proxied": false
+}
